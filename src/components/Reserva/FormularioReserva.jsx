@@ -2,6 +2,7 @@
 import React, { useState } from 'react';
 import './FormularioReserva.css';
 import { firestoreDB } from '../../firebase/config';
+import restaurante from '../../assets/restaurante.png'
 
 const FormularioReserva = () => {
 
@@ -45,7 +46,7 @@ const FormularioReserva = () => {
     return (
         <div className="container-form">
             <div className="image-form">
-                <img src="src/assets/restaurante.png" alt="Form Image" width="100%" />
+                <img src={restaurante} alt="Form Image" width="100%" />
             </div>
 
 

@@ -5,7 +5,7 @@ export const MainRouter = () => {
 
     return (
         <Routes>
-            <Route path='Inicio' element={<Inicio />} />
+            <Route path='/' element={<Inicio />}/>
             <Route path='NuestroMenu' element={<NuestroMenu />} />
             <Route path='Blog' element={<Blog />} />
             <Route path='Contacto' element={<Contacto />} />
