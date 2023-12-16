@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 31.9 32" style="enable-background:new 0 0 31.9 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:url(#SVGID_1_);}
+	.st1{display:none;fill:url(#SVGID_00000004534173409059239370000006359574086592870568_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-544.1409" y1="28.3956" x2="-543.5562" y2="29.1032" gradientTransform="matrix(31.8754 0 0 28.4068 17351.9902 -806.508)">
+	<stop  offset="0" style="stop-color:#41D1FF"/>
+	<stop  offset="1" style="stop-color:#BD34FE"/>
+</linearGradient>
+<path class="st0" d="M31.8,4.7l-15,26.8c-0.3,0.6-1.1,0.6-1.4,0L0.1,4.7C-0.2,4.1,0.3,3.4,1,3.5l15,2.7c0.1,0,0.2,0,0.3,0L31,3.5
+	C31.6,3.4,32.1,4.1,31.8,4.7z"/>
+<linearGradient id="SVGID_00000034784834549128763050000012278375108579137699_" gradientUnits="userSpaceOnUse" x1="-523.0826" y1="30.4184" x2="-523.0134" y2="31.2864" gradientTransform="matrix(14.6164 0 0 26.6459 7663.4033 -810.0164)">
+	<stop  offset="0" style="stop-color:#FFEA83"/>
+	<stop  offset="8.333001e-02" style="stop-color:#FFDD35"/>
+	<stop  offset="1" style="stop-color:#FFA800"/>
+</linearGradient>
+<path style="display:none;fill:url(#SVGID_00000034784834549128763050000012278375108579137699_);" d="M23.1,0L12,2.2
+	c-0.2,0-0.3,0.2-0.3,0.4L11,14.1c0,0.2,0.2,0.4,0.4,0.4h0.1l3.1-0.7c0.3-0.1,0.5,0.2,0.5,0.5l-0.9,4.5c-0.1,0.3,0.2,0.6,0.5,0.5
+	l1.9-0.6c0.3-0.1,0.6,0.2,0.5,0.5l-1.5,7.1c-0.1,0.4,0.5,0.7,0.7,0.3l0.2-0.3l9-18c0.2-0.3-0.1-0.6-0.4-0.6L22,8.2
+	c-0.3,0.1-0.6-0.2-0.5-0.5l2.1-7.2C23.6,0.2,23.4-0.1,23.1,0L23.1,0z"/>
+<g>
+	<defs>
+		<rect id="SVGID_00000071525314844285438850000001073112659909804943_" x="0.1" y="0.1" width="31.3" height="31.4"/>
+	</defs>
+	<clipPath id="SVGID_00000075859986256305316080000000872669205997447089_">
+		<use xlink:href="#SVGID_00000071525314844285438850000001073112659909804943_"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<g transform="matrix(1 0 0 1 3.814697e-06 0)" style="clip-path:url(#SVGID_00000075859986256305316080000000872669205997447089_);enable-background:new    ;">
+		
+			<image style="overflow:visible;" width="303" height="109" xlink:href="../src/assets/logo.png"  transform="matrix(0.6544 0 0 0.6544 -48.2542 -14.8026)">
+		</image>
+	</g>
+</g>
+</svg>

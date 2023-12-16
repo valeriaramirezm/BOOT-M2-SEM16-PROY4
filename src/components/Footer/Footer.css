@@ -1,0 +1,55 @@
+/* Footer.css */
+
+/* Estilos generales del pie de página */
+.footer {
+    background-color: #191919;
+    text-align: center;
+    width: 100%;
+  }
+  
+  /* Contenedor principal del pie de página */
+  .footer-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  /* Estilos para el logo en el pie de página */
+  .logo-container img {
+    height: auto;
+    margin: 10%;
+  }
+  
+  /* Estilos para la lista de enlaces en el pie de página */
+  .links-container {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    color: aliceblue;
+    font-size: 16px;
+    font-weight: 300;
+    flex-direction: column;
+  }
+
+  .links-container a.active {
+    color: #ED1C24; /* Color del texto del enlace activo */
+    font-size: 18px;
+  }
+  
+  /* Estilos responsivos para dispositivos pequeños */
+  @media (max-width: 768px) {
+    .footer-container {
+      flex-direction: column;
+    }
+  
+    .links-container {
+      margin-top: 10px;
+    }
+  
+    .links-container li {
+      margin-right: 0;
+      margin-bottom: 8px;
+    }
+  }
+  

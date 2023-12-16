@@ -1,0 +1,5 @@
+export {Inicio} from './Inicio'
+export {NuestroMenu} from './NuestroMenu'
+export {Blog} from './Blog'
+export {Error404} from './Error404'
+export {Contacto} from './Contacto'
