@@ -12,7 +12,7 @@ export const Inicio = () => {
             </div>
             <Ofertas />
             <div className="image-container">
-                <img className="centered-image" src="./src/assets/reserva-linea.png" alt="Descripción de la imagen"/>
+                <img className="centered-image" src="./src/assets/reserva-linea.png" alt="imagen 2 desde inicio"/>
             </div>
             <FormularioReserva />
         </div>
