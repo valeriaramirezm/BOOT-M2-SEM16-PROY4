@@ -2,6 +2,7 @@ import FormularioReserva from '../components/Reserva/FormularioReserva';
 import Slider from '../components/Slider/Slider';
 import { Ofertas } from './Ofertas';
 import carta from "../assets/carta.png"; 
+import reservaLinea from "../assets/reserva-linea.png"; 
 
 export const Inicio = () => {
 
@@ -13,7 +14,7 @@ export const Inicio = () => {
             </div>
             <Ofertas />
             <div className="image-container">
-                <img className="centered-image" src="/assets/reserva-linea.png" alt="imagen 2 desde inicio"/>
+                <img className="centered-image" src={reservaLinea} alt="imagen 2 desde inicio"/>
             </div>
             <FormularioReserva />
         </div>
