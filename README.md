@@ -5,18 +5,17 @@ y que guardará los datos automativamente en FireBase
 
 
 # WIREFRAME DEL SITIO
-Pagina Inicio:
-![Wireframe Sushizen](/src/assets/wireframe-sushizen.png)
+### Página Inicio
+<img src="/src/assets/wireframe-sushizen.png" width="200">
 
-Pagina Menu:
-![Wireframe Sushizen](/src/assets/wireframe-sushizen2.png)
+### Página Menú
+<img src="/src/assets/wireframe-sushizen2.png" width="200">
 
+### Página Blog
+<img src="/src/assets/wireframe-sushizen3.png" width="200">
 
-Pagina Blog:
-![Wireframe Sushizen](/src/assets/wireframe-sushizen3.png)
-
-Pagina Contacto:
-![Wireframe Sushizen](/src/assets/wireframe-sushizen4.png)
+### Página Contacto
+<img src="/src/assets/wireframe-sushizen4.png" width="200">
 
 
 # PREVIEW DEL SITIO
