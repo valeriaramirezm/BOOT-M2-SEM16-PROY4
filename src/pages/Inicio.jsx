@@ -1,6 +1,7 @@
 import FormularioReserva from '../components/Reserva/FormularioReserva';
 import Slider from '../components/Slider/Slider';
 import { Ofertas } from './Ofertas';
+import carta from "../../assets/carta.png"; // Ajusta la ruta según sea necesario
 
 export const Inicio = () => {
 
@@ -8,7 +9,7 @@ export const Inicio = () => {
         <div>
             <Slider />
             <div className="image-container">
-                <img className="centered-image" src="/assets/carta.png" alt="Descripción de la imagen" />
+                <img className="centered-image" src={carta} alt="Descripción de la imagen" />
             </div>
             <Ofertas />
             <div className="image-container">
