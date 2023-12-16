@@ -5,6 +5,7 @@ y que guardará los datos automativamente en FireBase
 
 
 # WIREFRAME DEL SITIO
+Pagina Inicio:
 ![Wireframe Sushizen](/src/assets/wireframe-sushizen.png)
 
 
