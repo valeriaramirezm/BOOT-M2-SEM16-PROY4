@@ -1,6 +1,6 @@
 # BOOT-M2-SEM12-PROY3
 
-Este proyecto consiste en una aplicación web para un restaurante, la cual tendrá reserva de horas mediante un formulario de reserva 
+Este proyecto consiste en una aplicación web realizada con REACT VITE para un restaurante, la cual tendrá reserva de horas mediante un formulario de reserva 
 y que guardará los datos automativamente en FireBase
 
 
