@@ -1,12 +1,12 @@
 import React from 'react';
-import './Footer.css'; // Asegúrate de tener el archivo CSS correspondiente
+import './Footer.css'; 
 
 const Footer = () => {
     return (
         <footer className="footer">
             <div className="footer-container">
                 <div className="logo-container">
-                    {/* Puedes colocar tu logo aquí */}
+
                     <img src="src/assets/logo.png" alt="Logo" />
                 </div>
                 <ul>
