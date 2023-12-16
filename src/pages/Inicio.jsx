@@ -1,7 +1,7 @@
 import FormularioReserva from '../components/Reserva/FormularioReserva';
 import Slider from '../components/Slider/Slider';
 import { Ofertas } from './Ofertas';
-import carta from "../../assets/carta.png"; // Ajusta la ruta según sea necesario
+import carta from "../assets/carta.png"; 
 
 export const Inicio = () => {
 
