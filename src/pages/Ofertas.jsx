@@ -1,7 +1,7 @@
 import React from 'react';
 import './global.css';
 import Card from '../components/Card/Card';
-import menu1 from './../asset/menu-1.png'
+import menu1 from './../assets/menu-1.png'
 
   
 export const Ofertas = () => {
