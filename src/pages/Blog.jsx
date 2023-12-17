@@ -1,5 +1,6 @@
 import React from 'react';
 import './global.css';
+import blog from '../assets/blog.jpg'
 
 export const Blog = () => {
     return (
@@ -7,7 +8,7 @@ export const Blog = () => {
 <div className='blog-container'>
     <div className='blog-flex'>
         <div>
-            <img src="src/assets/blog.jpg" alt="Card Image" className='blog-card-img' />
+            <img src={blog} alt="Card Image" className='blog-card-img' />
         </div>
         <div>
     <h2 className="blog-card-title">Explorando el Paraíso del Sabor en SushiZen: Un Viaje Culinario Inolvidable</h2>
