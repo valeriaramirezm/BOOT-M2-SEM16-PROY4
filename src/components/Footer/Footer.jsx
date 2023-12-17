@@ -1,5 +1,6 @@
 import React from 'react';
 import './Footer.css'; 
+import logo from '../../assets/logo.png'
 
 const Footer = () => {
     return (
@@ -7,7 +8,7 @@ const Footer = () => {
             <div className="footer-container">
                 <div className="logo-container">
 
-                    <img src="src/assets/logo.png" alt="Logo" />
+                    <img src={logo} alt="Logo" />
                 </div>
                 <ul>
                     <li><a href='' className="links-container">Términos y Condiciones de Uso</a></li>
