@@ -19,4 +19,4 @@ y que guardará los datos automativamente en FireBase
 
 
 # PREVIEW DEL SITIO
-https:
+https: https://boot-m2-sem16-proy4.netlify.app/
