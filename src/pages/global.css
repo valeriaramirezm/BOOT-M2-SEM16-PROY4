@@ -6,7 +6,7 @@
     align-items: center
 }
 
-/* Media query para dispositivos más pequeños, ajusta según sea necesario */
+/* Media query */
 @media screen and (max-width: 600px) {
     .container {
         flex-direction: column;
@@ -23,8 +23,8 @@
 
 .centered-image {
     width: 500px;
-    max-width: 100%; /* Hace que la imagen no supere el ancho del contenedor */
-    height: auto; /* Mantiene la proporción original de la imagen */
+    max-width: 100%; 
+    height: auto; 
 
 }
 

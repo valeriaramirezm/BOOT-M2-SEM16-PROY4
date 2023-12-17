@@ -7,49 +7,48 @@ body, h1, h2, h3, p, ul {
   
   /* Estilos generales del Navbar */
   header {
-    background-color: #000000; /* Color de fondo del Navbar */
-    padding: 30px; /* Espaciado interno superior e inferior */
+    background-color: #000000; 
+    padding: 30px; 
   }
   
   nav {
-    text-align: center; /* Centrar los elementos del Navbar */
-    display: flex; /* Mostrar los elementos del Navbar en línea */
+    text-align: center; 
+    display: flex; 
     flex-direction: column;
-    justify-content: space-between; /* Espaciado uniforme entre los elementos del Navbar */
+    justify-content: space-between; 
     align-items: center;
   }
   
   /* Estilos de los elementos del Navbar */
-  
   nav div a img {
     width: 400px;
     margin: 20px;
   }
   
   ul {
-    list-style: none; /* Eliminar los puntos de la lista */
-    display: flex; /* Mostrar los elementos de la lista en línea */
-    flex-wrap: wrap; /* Permitir el ajuste del contenido en varias líneas */
+    list-style: none; 
+    display: flex; 
+    flex-wrap: wrap; 
   }
   
   li {
-    margin-right: 20px; /* Espaciado entre elementos de la lista */
+    margin-right: 20px; 
   }
   
   a {
-    text-decoration: none; /* Eliminar el subrayado predeterminado de los enlaces */
-    color: #fff; /* Color del texto del enlace */
-    font-weight: bold; /* Hacer el texto del enlace en negrita */
-    font-size: 18px; /* Tamaño del texto del enlace */
+    text-decoration: none; 
+    color: #fff; 
+    font-weight: bold; 
+    font-size: 18px; 
   }
   
-  /* Estilos al pasar el ratón sobre los enlaces */
+
   a:hover {
-    color: #ececec; /* Cambiar el color del texto al pasar el ratón sobre el enlace */
+    color: #ececec; 
   }
   
   .active {
-    color: #ED1C24; /* Color del texto del enlace activo */
+    color: #ED1C24;
     font-size: 18px;
   }
   
@@ -60,8 +59,8 @@ body, h1, h2, h3, p, ul {
     }
   
     nav div a img {
-      margin: 0; /* Eliminar el margen en dispositivos móviles */
-      margin-bottom: 10px; /* Agregar espacio entre el logo y los elementos de la lista */
+      margin: 0; 
+      margin-bottom: 10px; 
     }
   
     ul {
@@ -72,7 +71,7 @@ body, h1, h2, h3, p, ul {
     li {
       margin: 3px 0;
       text-align: center;
-      width: 100%; /* Ocupar todo el ancho en dispositivos móviles */
+      width: 100%; 
     }
   }
   
